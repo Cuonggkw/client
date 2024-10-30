@@ -1,0 +1,284 @@
+{
+    "table": [
+        {
+            "id": 1,
+            "tableNumber": 1,
+            "tableStatus": 1,
+            "tableCapacity": 4
+        },
+        {
+            "id": 2,
+            "tableNumber": 2,
+            "tableStatus": 2,
+            "tableCapacity": 2
+        },
+        {
+            "id": 3,
+            "tableNumber": 3,
+            "tableStatus": 0,
+            "tableCapacity": 6
+        },
+        {
+            "id": 4,
+            "tableNumber": 4,
+            "tableStatus": 1,
+            "tableCapacity": 4
+        },
+        {
+            "id": 5,
+            "tableNumber": 5,
+            "tableStatus": 1,
+            "tableCapacity": 4
+        },
+        {
+            "id": 6,
+            "tableNumber": 6,
+            "tableStatus": 0,
+            "tableCapacity": 4
+        },
+        {
+            "id": 7,
+            "tableNumber": 7,
+            "tableStatus": 1,
+            "tableCapacity": 4
+        },
+        {
+            "id": 8,
+            "tableNumber": 8,
+            "tableStatus": 2,
+            "tableCapacity": 4
+        },
+        {
+            "id": 9,
+            "tableNumber": 9,
+            "tableStatus": 0,
+            "tableCapacity": 4
+        },
+        {
+            "id": 10,
+            "tableNumber": 10,
+            "tableStatus": 0,
+            "tableCapacity": 4
+        },
+        {
+            "id": 11,
+            "tableNumber": 11,
+            "tableStatus": 0,
+            "tableCapacity": 4
+        },
+        {
+            "id": 12,
+            "tableNumber": 12,
+            "tableStatus": 1,
+            "tableCapacity": 4
+        }
+    ],
+    "menu": [
+        {
+            "id": 1,
+            "foodName": "sữa chua",
+            "price": "20000",
+            "description": "hơi chua",
+            "categorieId": 4,
+            "image": null,
+            "status": 0,
+            "createdAt": "2024-09-27T09:41:38.000Z",
+            "updatedAt": "2024-09-27T09:41:38.000Z",
+            "categorieData": {
+                "categoryName": "Salat"
+            }
+        },
+        {
+            "id": 2,
+            "foodName": "bánh mì",
+            "price": "15000",
+            "description": "giòn rụm, thơm ngon",
+            "categorieId": 4,
+            "image": null,
+            "status": 1,
+            "createdAt": "2024-09-28T10:05:12.000Z",
+            "updatedAt": "2024-09-28T10:05:12.000Z",
+            "categorieData": {
+                "categoryName": "Bánh mì"
+            }
+        },
+        {
+            "id": 3,
+            "foodName": "phở bò",
+            "price": "50000",
+            "description": "nước dùng đậm đà, thịt bò mềm",
+            "categorieId": 1,
+            "image": null,
+            "status": 1,
+            "createdAt": "2024-09-28T10:10:22.000Z",
+            "updatedAt": "2024-09-28T10:10:22.000Z",
+            "categorieData": {
+                "categoryName": "Món nước"
+            }
+        },
+        {
+            "id": 4,
+            "foodName": "gỏi cuốn",
+            "price": "30000",
+            "description": "tươi mát, thanh nhẹ",
+            "categorieId": 3,
+            "image": null,
+            "status": 1,
+            "createdAt": "2024-09-28T10:15:45.000Z",
+            "updatedAt": "2024-09-28T10:15:45.000Z",
+            "categorieData": {
+                "categoryName": "Món khai vị"
+            }
+        },
+        {
+            "id": 5,
+            "foodName": "bún chả",
+            "price": "40000",
+            "description": "thịt nướng thơm, nước chấm vừa vị",
+            "categorieId": 1,
+            "image": null,
+            "status": 1,
+            "createdAt": "2024-09-28T10:20:30.000Z",
+            "updatedAt": "2024-09-28T10:20:30.000Z",
+            "categorieData": {
+                "categoryName": "Món chính"
+            }
+        },
+        {
+            "id": 6,
+            "foodName": "chè ba màu",
+            "price": "25000",
+            "description": "ngọt mát, ba tầng màu đẹp",
+            "categorieId": 2,
+            "image": null,
+            "status": 1,
+            "createdAt": "2024-09-28T10:25:50.000Z",
+            "updatedAt": "2024-09-28T10:25:50.000Z",
+            "categorieData": {
+                "categoryName": "Món tráng miệng"
+            }
+        },
+        {
+            "id": 7,
+            "foodName": "xôi gấc",
+            "price": "20000",
+            "description": "mềm dẻo, vị ngọt thanh",
+            "categorieId": 3,
+            "image": null,
+            "status": 1,
+            "createdAt": "2024-09-28T10:30:15.000Z",
+            "updatedAt": "2024-09-28T10:30:15.000Z",
+            "categorieData": {
+                "categoryName": "Món khai vị"
+            }
+        },
+        {
+            "id": 8,
+            "foodName": "bò lúc lắc",
+            "price": "60000",
+            "description": "thịt bò mềm, đậm vị",
+            "categorieId": 1,
+            "image": null,
+            "status": 1,
+            "createdAt": "2024-09-28T10:35:22.000Z",
+            "updatedAt": "2024-09-28T10:35:22.000Z",
+            "categorieData": {
+                "categoryName": "Món chính"
+            }
+        },
+        {
+            "id": 9,
+            "foodName": "trà đào",
+            "price": "15000",
+            "description": "mát lạnh, thơm vị đào",
+            "categorieId": 2,
+            "image": null,
+            "status": 1,
+            "createdAt": "2024-09-28T10:40:35.000Z",
+            "updatedAt": "2024-09-28T10:40:35.000Z",
+            "categorieData": {
+                "categoryName": "Đồ uống"
+            }
+        },
+        {
+            "id": 10,
+            "foodName": "cơm tấm",
+            "price": "35000",
+            "description": "sườn nướng thơm, cơm dẻo",
+            "categorieId": 1,
+            "image": null,
+            "status": 1,
+            "createdAt": "2024-09-28T10:45:10.000Z",
+            "updatedAt": "2024-09-28T10:45:10.000Z",
+            "categorieData": {
+                "categoryName": "Món chính"
+            }
+        },
+        {
+            "id": 11,
+            "foodName": "bánh xèo",
+            "price": "35000",
+            "description": "giòn rụm, thơm vị tôm thịt",
+            "categorieId": 3,
+            "image": null,
+            "status": 1,
+            "createdAt": "2024-09-28T10:50:25.000Z",
+            "updatedAt": "2024-09-28T10:50:25.000Z",
+            "categorieData": {
+                "categoryName": "Món khai vị"
+            }
+        },
+        {
+            "id": 12,
+            "foodName": "chè thái",
+            "price": "30000",
+            "description": "ngọt mát, thơm mùi mít",
+            "categorieId": 2,
+            "image": null,
+            "status": 1,
+            "createdAt": "2024-09-28T10:55:33.000Z",
+            "updatedAt": "2024-09-28T10:55:33.000Z",
+            "categorieData": {
+                "categoryName": "Món tráng miệng"
+            }
+        }
+    ],
+    "orders": [
+        {
+            "id": 3,
+            "tableID": 2,
+            "accountID": 2,
+            "total_price": "200000.00",
+            "status": 0,
+            "notes": "đã đem hết món",
+            "payment": "other",
+            "createdAt": "2024-10-02T09:20:49.000Z",
+            "updatedAt": "2024-10-02T09:20:49.000Z",
+            "tableData": {
+                "id": 2
+            },
+            "accountData": {
+                "username": "Dũng",
+                "role": "Server"
+            }
+        },
+        {
+            "id": 4,
+            "tableID": 1,
+            "accountID": 2,
+            "total_price": "340000.00",
+            "status": 1,
+            "notes": "còn món",
+            "payment": "credit card",
+            "createdAt": "2024-10-02T09:21:41.000Z",
+            "updatedAt": "2024-10-02T09:21:41.000Z",
+            "tableData": {
+                "id": 1
+            },
+            "accountData": {
+                "username": "Dũng",
+                "role": "Server"
+            }
+        }
+    ]
+}
